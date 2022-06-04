@@ -1,0 +1,44 @@
+{
+    "translation": [
+        {
+            "key": "Option 1",
+            "es": "Opción 1"
+        },
+        {
+            "key": "Option 2",
+            "es": "Opción 2"
+        },
+        {
+            "key": "Option 3",
+            "es": "Opción 3"
+        },
+        {
+            "key": "Old Faithful Geyser Data",
+            "es": "Datos del Géiser 'Old Faithful'"
+        },
+        {
+            "key": "Number of bins:",
+            "es": "Número de barras:"
+        },
+        {
+            "key": "long_box_1",
+            "es": "# Texto largo en Markdown\nEste texto es mucho más largo e incluye [enlaces](https://example.com).\nIncluso incluye una imágen.\n![Libro](bookKETP.png)"
+        },
+        {
+            "key": "Useless dropdown",
+            "es": "Selección inútil"
+        },
+        {
+            "key": "You selected Option 2",
+            "es": "Has seleccionado la opción 2"
+        },
+        {
+            "key": "Some option other than 2 has been chosen",
+            "es": "Se ha seleccionado una opción distinta de la 2"
+        }
+    ],
+    "languages": [
+        "key",
+        "es"
+    ]
+}
